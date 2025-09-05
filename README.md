@@ -1,4 +1,4 @@
 # React + TypeScript + Vite
 
-npm run install
-mpm run dev
+1. npm install
+2. mpm run dev
